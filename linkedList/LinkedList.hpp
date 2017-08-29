@@ -132,9 +132,6 @@ bool LinkedList<T>::removeBack()
 		m_size--;
 		isRemoved = true;
 	}
-	/** TODO
-		Fix this method
-	*/
 
 	return(isRemoved);
 }
